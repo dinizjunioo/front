@@ -9,7 +9,7 @@ import AddTask  from './components/AddTask';
 //message = 'Hello world!' valor inicial é dentro do useState
 
 // PROPS COMPONENTE PAI PARA COMPONENTE FILHO
-
+//
 const App = () => {
   //const [message, setMessage] = useState("Hello world")
   const [tasks, setTasks] = useState([
